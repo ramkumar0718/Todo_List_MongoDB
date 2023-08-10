@@ -7,4 +7,4 @@ pip install pymongo
 ```
 
 # Changes in code :
-In your code,  replace `test` with your `database name` in Mongodb
+In Python code,  replace `test` with your `database name` in Mongodb
