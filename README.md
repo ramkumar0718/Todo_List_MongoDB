@@ -1,5 +1,5 @@
 # Todo_List_MongoDB :
-Using this you can divide your big task into multiple sub-tasks with a good look `#0969DA` UI 
+Using this you can divide your big task into multiple sub-tasks with a good look UI 
 
 # Requirements :
 ```
